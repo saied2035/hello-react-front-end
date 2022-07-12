@@ -1,7 +1,12 @@
 import './App.css';
+import { Routes, Route } from 'react-router-dom';
 
 function App() {
-  return <p>Hello!</p>;
+  return (
+    <Routes>
+      <Route path="/" element={<p>Hello!</p>} />
+    </Routes>
+  );
 }
 
 export default App;
