@@ -37,6 +37,8 @@ for https:
    - `npx eslint .` for JS check.
    - `npx eslint . --fix` to fix JS issues if found.
 
+## Rails API repo:
+[hello-rails-back-end](https://github.com/saied2035/hello-rails-back-end/)
 ## Authors
 
 👤 **Saied Gaffer**
