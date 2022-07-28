@@ -11,9 +11,6 @@
 - JSX & React & Redux
 - React&Redux linters
 
-### Live Demo 
-
-[Live Demo](https://blooming-retreat-94500.herokuapp.com/)
 
 ## Getting Started
 
